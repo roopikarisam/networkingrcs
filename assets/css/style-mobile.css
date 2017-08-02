@@ -28,10 +28,10 @@
 
 		#banner .major h2 {
 			font-size: 2em;
-			margin: 100;
+			
 		}
 
 		#banner .major .byline {
 			font-size: 1em;
-			margin: 20;
+			margin: 0;
 		}
